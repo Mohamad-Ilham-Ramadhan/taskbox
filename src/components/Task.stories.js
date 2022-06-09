@@ -34,3 +34,12 @@ Archived.args = {
     state: 'TASK_ARCHIVED'
   }
 }
+
+const longTitleString = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, magni incidunt, voluptate, consectetur optio ipsum sunt libero eum labore nam maiores commodi sint possimus quaerat consequatur adipisci enim repudiandae. Eaque. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem sint veniam pariatur nostrum commodi? Ea dolore corrupti iusto esse quisquam quam est labore recusandae nam, adipisci cumque ab facilis aperiam.';
+export const LongTitle = Template.bind({});
+LongTitle.args = {
+  task: {
+    ...Default.args.task,
+    title: longTitleString
+  }
+}

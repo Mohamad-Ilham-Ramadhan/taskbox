@@ -1,2 +1,6 @@
 url: storybooks.org/tutorials
 current progress: testing
+
+=== What I learn | Kesimpulan ===
+- storybooks atau component driven development membuat komunikasi antara frontend dan designer menjadi lebih mudah, juga mengurangi miss communication.
+- mempermudah QA, designer, frontend untuk testing component pada controls di storybook, kita bisa tes edge case dengan mengotak-atik params atau props si component.
