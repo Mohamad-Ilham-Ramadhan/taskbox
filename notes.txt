@@ -1,2 +1,2 @@
 url: storybooks.org/tutorials
-current progress: deploy
+current progress: testing
