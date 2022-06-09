@@ -1,2 +1,2 @@
 url: storybooks.org/tutorials
-current progress: data
+current progress: screen
